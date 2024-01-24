@@ -84,5 +84,29 @@
     <ClCompile Include="num22.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="num23.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="num24.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="num25.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="num26.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="num27.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="num28.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="num29.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="num30.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

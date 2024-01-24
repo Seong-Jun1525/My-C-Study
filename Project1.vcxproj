@@ -143,7 +143,15 @@
     <ClCompile Include="num20.c" />
     <ClCompile Include="num21.c" />
     <ClCompile Include="num22.c" />
+    <ClCompile Include="num23.c" />
+    <ClCompile Include="num24.c" />
+    <ClCompile Include="num25.c" />
+    <ClCompile Include="num26.c" />
+    <ClCompile Include="num27.c" />
+    <ClCompile Include="num28.c" />
+    <ClCompile Include="num29.c" />
     <ClCompile Include="num3.c" />
+    <ClCompile Include="num30.c" />
     <ClCompile Include="num4.c" />
     <ClCompile Include="num5.c" />
     <ClCompile Include="num6.c" />
