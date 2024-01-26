@@ -108,5 +108,17 @@
     <ClCompile Include="num30.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="num31.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="num32.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="num33.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="num34.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
